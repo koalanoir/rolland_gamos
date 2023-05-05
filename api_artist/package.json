@@ -1,0 +1,14 @@
+{
+  "name": "api_artist",
+  "version": "1.0.0",
+  "description": "App web pour jouer au rolland gamos un jeu inventé par booska p et rapbinks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "koala noir",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
